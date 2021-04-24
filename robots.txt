@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://last-genius.github.io/UCU_Linux_Club/sitemap.xml
